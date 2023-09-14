@@ -1,0 +1,10 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.footer img {
+    width: 4vw;
+}
+
+

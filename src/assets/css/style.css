@@ -1,0 +1,28 @@
+
+.background-black {
+    background-color: #000;
+}
+
+body, p, h1, h2, h3, ol, li, a {
+    color: rgb(178, 147, 119);
+}
+
+.img-fluid {
+    border: 2px solid rgb(178, 147, 119);
+}
+
+ .border-title {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 3% 1%;
+    color: rgb(178, 147, 119);
+}
+
+
+h2 {
+    font-size: 50px;
+    font-family: 'Courgette', cursive;
+    border: 3px solid rgb(178, 147, 119);
+    border-radius: 45px 12px;
+    padding: 10px 0 10px 0
+}
